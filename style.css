@@ -1,0 +1,36 @@
+body {
+    background-image:url("R.jfif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+#d1 {
+    text-align:center;
+    background-color:burlywood;
+    border-radius:30px;
+    box-shadow:5px 5px 30px black;
+}
+
+#volume {
+    float:right;
+}
+
+#sped {
+    float:left;
+}
+
+#b1 {
+    text-align:center;
+    border-radius:30px;
+    box-shadow:5px 5px 30px black;
+    background-color:rgb(33, 157, 240);
+}
+
+#Seep {
+    color:white;
+}
+
+#Vol {
+    color:White;
+}
